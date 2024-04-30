@@ -1,5 +1,5 @@
 {
     "images": {
-        "registry.k8s.io/ingress-nginx/controller:v1.9.1": "zhetengdawang2022/controller:v1.9.1"
+        "registry.k8s.io/ingress-nginx/controller:v1.9.2": "zhetengdawang2022/controller:v1.9.2"
     }
 }
