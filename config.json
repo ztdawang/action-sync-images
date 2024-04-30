@@ -1,11 +1,5 @@
 {
-    "auth": {
-        "registry.hub.docker.com": {
-            "username": "zhetengdawang2022",
-            "password": "DOCKERHUB_PASSWORD"
-        }
-    },
     "images": {
-        "registry.k8s.io/ingress-nginx/controller:v1.10.1": "zhetengdawang2022/controller:v1.10.1"
+        "registry.k8s.io/ingress-nginx/controller:v1.9.1": "zhetengdawang2022/controller:v1.9.1"
     }
 }
