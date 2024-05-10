@@ -1,5 +1,6 @@
 {
     "images": {
-        "registry.k8s.io/ingress-nginx/controller:v1.9.2": "zhetengdawang2022/controller:v1.9.2"
+        "registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20221220-controller-v1.5.1-58-g787ea74b6": "zhetengdawang2022/kube-webhook-certgen:v20221220-controller-v1.5.1-58-g787ea74b6",
+        "registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.12.0": "zhetengdawang2022/kube-state-metrics:v2.12.0"
     }
 }
